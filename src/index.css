@@ -1,0 +1,22 @@
+.Task {
+	font-size: 25px;
+	border: dotted 1px;
+	margin: 5px;
+}
+.Task > div {
+	text-align: center;
+}
+button {
+	width:170px;
+	height: 30px;
+	margin: 10px;
+}
+
+body {
+	text-align: center;
+}
+
+textarea {
+	width:300px;
+	font-size: 25px;
+}
